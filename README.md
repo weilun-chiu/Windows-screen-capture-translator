@@ -222,7 +222,6 @@ custom_config = r'--oem 3 --psm 6'
 ## 📄 授權條款
 
 本專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 檔案
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🙏 致謝
 
